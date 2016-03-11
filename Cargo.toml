@@ -1,0 +1,9 @@
+[package]
+name = "timely_sandbox"
+version = "0.1.0"
+authors = ["Tom Burdick <thomas.burdick@gmail.com>"]
+
+[dependencies]
+chan = "*"
+timely = "*"
+timely_communication = "*"
